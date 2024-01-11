@@ -18,7 +18,9 @@
 Discussion: [#1](https://github.com/YongsHub/-Kubernetes-Study/issues/1)
 
 
-2일차 주요 내용
 
+`2일차 주요 내용`
+
+- Replication, ReplicaSet, Deployment, DaemonSet, Job, CronJob
 
 Discussion: [#2](https://github.com/YongsHub/-Kubernetes-Study/issues/2)
