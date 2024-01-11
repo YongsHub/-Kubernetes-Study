@@ -20,4 +20,5 @@ Discussion: [#1](https://github.com/YongsHub/-Kubernetes-Study/issues/1)
 
 2일차 주요 내용
 
-... 추후 업데이트 예정
+
+Discussion: [#2](https://github.com/YongsHub/-Kubernetes-Study/issues/2)
