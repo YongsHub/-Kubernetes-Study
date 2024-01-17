@@ -24,3 +24,20 @@ Discussion: [#1](https://github.com/YongsHub/-Kubernetes-Study/issues/1)
 - Replication, ReplicaSet, Deployment, DaemonSet, Job, CronJob
 
 Discussion: [#2](https://github.com/YongsHub/-Kubernetes-Study/issues/2)
+
+
+
+`3일차 주요 내용`
+- Lifecycle, ReadinessProbe, LivenessProbe, Qos Classes, Node Scheduling
+
+Discussion: [#3](https://github.com/YongsHub/-Kubernetes-Study/issues/3)
+
+
+`4일차 주요 내용`
+- Service - Headless, Endpoint, ExternalName
+- Volume - Dynamic Provisioning, StorageClass, Status, ReclaimPolicy
+- Accessing API
+- Authentication, Authorization
+- Kubernetes Dashboard
+
+Discussion: [#4](https://github.com/YongsHub/-Kubernetes-Study/issues/4)  
