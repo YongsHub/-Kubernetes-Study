@@ -101,3 +101,7 @@ template가 selector가 똑같이 존재함
 concurencyPolicy는 Default가 Allow
 
 즉, Job에 대해 정교하게 다룰 수 있음
+
+### References
+
+출처링크 : https://inf.run/yW34

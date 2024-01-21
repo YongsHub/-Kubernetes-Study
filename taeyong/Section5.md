@@ -43,3 +43,7 @@ BestEffort
 ### Node Affinity, Pod Affinity, Taint, Toleration
 
 ![Affinity](./picture/Affinity.png)
+
+### References
+
+출처링크 : https://inf.run/yW34

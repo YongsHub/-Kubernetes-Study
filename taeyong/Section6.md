@@ -65,3 +65,7 @@ CA Key + CA crt + Client csr -> Client crt
 ClusterRole도 namespace 내에서 Role Binding을 통해 지정 가능
 
 `즉 하나의 Role로 Namespace resource 관리 가능`
+
+### References
+
+출처링크 : https://inf.run/yW34

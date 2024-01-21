@@ -85,3 +85,7 @@ metrics의 type은 resource로 지정하여 cpu, memory 등 리소스 네임을 
 metrics 같은 경우, type을 통해 지정할 수 있는데 Pods의 경우 type: Pods로 지정하고 Ingress같은 경우는 Object로 지정해야 한다.
 
 하지만 이같은 경우 Prometheus와 같은 plugin이 설치되어 있어야 함
+
+### References
+
+출처링크 : https://inf.run/yW34
