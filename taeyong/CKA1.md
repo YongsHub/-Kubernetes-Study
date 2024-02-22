@@ -80,3 +80,39 @@ spec:
 ### Practice Test - Pods
 
 https://uklabs.kodekloud.com/topic/practice-test-pods-2/
+
+### Kubernetes Controller
+
+- Replication Controller | Replica Set
+
+```
+High Available  제공
+Load Balancing & Scaling
+```
+
+Replica Set은 yaml파일 내에 selector: 가 꼭 있어야 함
+ReplicationController에서는 제공되지 않는 것임
+
+- 만약 upscaling을 위해 relicas의 개수를 변경하고 싶다면 숫자를 변경하고
+
+  ```shell
+  kubectl replace -f replicaset-definition.yml
+  ```
+
+  을 통해 업데이트할 수 있다
+
+- scale을 이용한 업데이트
+
+  ```shell
+  kubectl scale --replicas=6 -f replicaset-definition.yml
+  ```
+
+  ```shell
+  kubectl scale --replicas=6 replicaset(type) myapp-replicaset(name)
+  ```
+
+  but, 위의 방법은 파일에는 여전히 원래 개수대로 남아 있을 것이다
+
+### Kubernetes Deployment
+
+kind: Deployment
